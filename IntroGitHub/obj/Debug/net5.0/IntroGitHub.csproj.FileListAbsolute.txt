@@ -1,0 +1,16 @@
+C:\Users\lluis\Documents\Workspace\POO\IntoGIT\IntroGitHub\bin\Debug\net5.0\IntroGitHub.exe
+C:\Users\lluis\Documents\Workspace\POO\IntoGIT\IntroGitHub\bin\Debug\net5.0\IntroGitHub.deps.json
+C:\Users\lluis\Documents\Workspace\POO\IntoGIT\IntroGitHub\bin\Debug\net5.0\IntroGitHub.runtimeconfig.json
+C:\Users\lluis\Documents\Workspace\POO\IntoGIT\IntroGitHub\bin\Debug\net5.0\IntroGitHub.runtimeconfig.dev.json
+C:\Users\lluis\Documents\Workspace\POO\IntoGIT\IntroGitHub\bin\Debug\net5.0\IntroGitHub.dll
+C:\Users\lluis\Documents\Workspace\POO\IntoGIT\IntroGitHub\bin\Debug\net5.0\ref\IntroGitHub.dll
+C:\Users\lluis\Documents\Workspace\POO\IntoGIT\IntroGitHub\bin\Debug\net5.0\IntroGitHub.pdb
+C:\Users\lluis\Documents\Workspace\POO\IntoGIT\IntroGitHub\obj\Debug\net5.0\IntroGitHub.csprojAssemblyReference.cache
+C:\Users\lluis\Documents\Workspace\POO\IntoGIT\IntroGitHub\obj\Debug\net5.0\IntroGitHub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lluis\Documents\Workspace\POO\IntoGIT\IntroGitHub\obj\Debug\net5.0\IntroGitHub.AssemblyInfoInputs.cache
+C:\Users\lluis\Documents\Workspace\POO\IntoGIT\IntroGitHub\obj\Debug\net5.0\IntroGitHub.AssemblyInfo.cs
+C:\Users\lluis\Documents\Workspace\POO\IntoGIT\IntroGitHub\obj\Debug\net5.0\IntroGitHub.csproj.CoreCompileInputs.cache
+C:\Users\lluis\Documents\Workspace\POO\IntoGIT\IntroGitHub\obj\Debug\net5.0\IntroGitHub.dll
+C:\Users\lluis\Documents\Workspace\POO\IntoGIT\IntroGitHub\obj\Debug\net5.0\ref\IntroGitHub.dll
+C:\Users\lluis\Documents\Workspace\POO\IntoGIT\IntroGitHub\obj\Debug\net5.0\IntroGitHub.pdb
+C:\Users\lluis\Documents\Workspace\POO\IntoGIT\IntroGitHub\obj\Debug\net5.0\IntroGitHub.genruntimeconfig.cache
